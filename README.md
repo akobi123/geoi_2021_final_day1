@@ -1,7 +1,5 @@
 # georgian olympiad in informatics 2021 final day 1
 
-problems A and B
+solutions for problems A and B in c++
 
-statements in georgian
-
-solutions in c++
+statements for problems A and B in georgian
